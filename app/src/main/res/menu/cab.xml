@@ -4,12 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="AppCompatResource,AlwaysShowAction">
     <item
-        android:id="@+id/cab_delete"
-        android:icon="@drawable/ic_delete_vector"
-        android:showAsAction="always"
-        android:title="@string/delete"
-        app:showAsAction="always" />
-    <item
         android:id="@+id/cab_confirm_selection"
         android:icon="@drawable/ic_check_vector"
         android:showAsAction="always"
